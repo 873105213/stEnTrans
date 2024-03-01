@@ -1,0 +1,31 @@
+files:
+  - url: ""
+    time: 1693541177512.yml
+    name: config.yaml
+    selected: []
+  - time: 1698023425974.yml
+    name: 一元机场
+    url: https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=7044073301004bde60ee9bdb5474234e
+    selected:
+      - name: GLOBAL
+        now: 🇺🇸美国 08 | 专线
+      - name: 一元机场
+        now: 自动选择
+    interval: 24
+    subInfo:
+      upload: 19743906
+      download: 253226766
+      total: 536870912000
+      expire: 1712114541
+    mode: rule
+  - time: 1698888688130.yml
+    name: 一元机场
+    url: https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=r48uq903928nz9hbw1b25rsogqavnc64
+    selected: []
+    interval: 24
+    subInfo:
+      upload: 17374258
+      download: 310918180
+      total: 536870912000
+      expire: 1788234360
+index: 1
